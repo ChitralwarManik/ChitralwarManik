@@ -18,12 +18,10 @@
 
 - I'm currently learning from **Coursera** and **Kaggle**. 
 - 💻 I'm looking for an **internship** in **Machine Learning** & **Data science**domain.
-
-- <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
-- <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
-- <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_** 👨‍💻
-- <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/hmm.gif" width="30px">&nbsp;AMA, I am happy to help, only if in the case of my cup of tea!⚡️
-- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_to live fit_** that able to serve the world with my coding and **_Analyis skills_** .🌐
+- Working on **_Competitive Programming skills..._**
+- Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
+- Desire to develop new possibilities in the field of **_Data Science_** and **_ML_**
+- Fun-Fact: Love **_to live fit_** that able to serve the world with my coding and **_Analyis skills_** .🌐
 
 <br><br>
 
