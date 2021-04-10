@@ -14,10 +14,10 @@
 
 <img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 
-> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
+>**_Talking about Personal Stuffs:_**
 
-- <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/wave.gif" width="30px">&nbsp;I'm currently learning from **Coursera** and **Kaggle**. 😉
-- 💻 I'm looking for an **internship** in **Machine Learning** domain.
+- I'm currently learning from **Coursera** and **Kaggle**. 
+- 💻 I'm looking for an **internship** in **Machine Learning** & **Data science**domain.
 
 - <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
 - <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
