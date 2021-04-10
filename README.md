@@ -6,9 +6,9 @@
 <p align="center">
   <em>
     This is Manik Chitralwar, a B.Tech (ENTC) graduate in year 2020  from <a href="https://www.ritindia.edu/"> <b>RIT (An Autonomous Institute)</b> Sangli, Maharashtra</a>. <br>
-    A Learning <b>Data Scientist <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
+    A Learning <b>Data Scientist </b> and a <b>Competitive Programming Enthusiast, </b> <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into <b>Data Science Projects </b> <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Rocket.gif" width="18px">and a
-    <b>developer</b> <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Medal.gif" width="20px">&nbsp.
+    <b>developer</b> .
   </em>
 </p>
 
