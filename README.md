@@ -51,22 +51,8 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <!------<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Pandarge&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">---->
 
 </p>
-<!--
-<hr>
-<details align="center">
 
-<br />
-<br />
-</details>
--->
-
-<img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-<br>
-<br>
-<br>
- 🔭  You have finally discovered my Github profile!!
 <br> Thanks for stopping by!
-<br>
 <br>
 
 # Connect with me <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Handshake.gif" height="32px">
