@@ -56,8 +56,10 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <br>
 
 # Connect with me <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Handshake.gif" height="32px">
+[Gmail](manikchitral123@gmail.com)
 <a href="https://www.linkedin.com/in/chitralwar-manik-091120138/">
 	<img align="left" alt="Manik_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
 </h1></a>
+
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
