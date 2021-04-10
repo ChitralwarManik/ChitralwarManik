@@ -59,9 +59,5 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <a href="https://www.linkedin.com/in/chitralwar-manik-091120138/">
 	<img align="left" alt="Manik_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
 </h1></a>
-<a href="https://www.kaggle.com/manikchitralwar">[<img align="left" alt="Manik Chitralwar | kaggle" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/3570/3570067.svg?token=exp=1616931063~hmac=003b40796af96f23402fb4d2eb279c09" />]</a>
-<!----------<a href="https://t.me/harshita248">
-  <img align="left" alt="Harshita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
---------------->
+
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
