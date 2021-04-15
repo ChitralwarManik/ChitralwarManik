@@ -57,7 +57,7 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 # Connect with me <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Handshake.gif" height="32px">
 GMAIL : **manikchitral123@gmail.com**
-<a href="https://www.linkedin.com/in/chitralwar-manik-091120138/">
+<a href="https://www.linkedin.com/in/chitralwarmanik/">
 	<img align="left" alt="Manik_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
 </h1></a>
 
