@@ -17,7 +17,7 @@
 >**Talking about Personal Stuffs:**
 
 - I'm currently learning from **Coursera** and **Kaggle**. 
-- 💻 I'm looking for an **internship** in **Machine Learning** & **Data science**domain.
+- 💻 Currently I'm working as a **Data Science Intern** in **iNeuron.ai** .
 - Working on **_Competitive Programming skills..._**
 - Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
 - Desire to develop new possibilities in the field of **_Data Science_** and **_ML_**
