@@ -16,7 +16,6 @@
 
 >**Talking about Personal Stuffs:**
 
-- I'm currently learning from **Coursera** and **Kaggle**. 
 - 💻 Currently I'm working as a **Associate AI Developer** in **PiChain Innovations**.
 - I have worked in **iNeuron.ai** as a **Data Science Intern** for 6 months.
 - Working on **_Competitive Programming skills..._**
