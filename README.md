@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is Manik Chitralwar, a B.Tech (ENTC) graduate in year 2020  from <a href="https://www.ritindia.edu/"> <b>RIT (An Autonomous Institute)</b> Sangli, Maharashtra</a>. <br>
+    A B.Tech (ENTC) graduate in year 2020  from <a href="https://www.ritindia.edu/"> <b>RIT (An Autonomous Institute)</b> Sangli, Maharashtra</a>. <br>
     A Learning <b>Data Scientist </b> and a <b>Competitive Programming Enthusiast, </b> <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into <b>Data Science Projects </b> <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Rocket.gif" width="18px">and a
     <b>developer</b> .
