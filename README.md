@@ -63,5 +63,7 @@ GMAIL : **manikchitral123@gmail.com**
 	<img align="left" alt="Manik_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
 </h1></a>
 
+<a href="https://www.linkedin.com/in/chitralwarmanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manik Chitralwar" height="30" width="40" /></a>
+
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
