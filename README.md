@@ -1,69 +1,39 @@
-<h1 align="center"><img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨 !!! <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Earth.gif" width="24px"> 
-<br>
-<h1 align="center">I'm Manik  <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Developer.gif" width="80px"> 
-</h1>
+<h1 align="center">Hi 👋, I'm Manik</h1>
+<h3 align="center">3+ year data-driven professional leverages Python, AI/ML, Computer Vision, and AWS to build impactful solutions with deployed machine learning models.</h3>
 
-<p align="center">
-  <em>
-    A B.Tech (ENTC) graduate in year 2020  from <a href="https://www.ritindia.edu/"> <b>RIT (An Autonomous Institute)</b> Shivaji University Kolhapur
-, Maharashtra</a>. <br>
-    A Learning <b>Data Scientist </b> and a <b>Competitive Programming Enthusiast, </b> <br><b>still a learner</b>
-    with the idea of <b>implementing</b> my work and growing into <b>Data Science Projects </b> <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Rocket.gif" width="18px">and a
-    <b>developer</b> .
-  </em>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chitralwarmanik&label=Profile%20views&color=0e75b6&style=flat" alt="chitralwarmanik" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chitralwarmanik" alt="chitralwarmanik" /></a> </p>
+
+- 🔭 I’m currently working on **projects which are related to MLops, ComputerVision, NLP, AWS**
+
+- 🌱 I’m currently learning **GenAI and LLM**
+
+- 👯 My passion for **AI/ML lies in its potential to revolutionize how we interact with technology, and I'm constantly seeking to learn and contribute to this exciting field through personal projects and ongoing learning.**
+
+- 📝 I regularly write articles on [https://medium.com/@leochitralwar2020](https://medium.com/@leochitralwar2020)
+
+- 💬 Ask me about **Python, Computer Vision, Backend development, AWS.**
+
+- 📫 How to reach me **manikchitral123@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/chitralwarmanik/overlay/1721389240239/single-media-viewer/?profileId=ACoAACF6Lm0Bri26lIlJ8dbXXaN_qBu7p2C9PdM](https://www.linkedin.com/in/chitralwarmanik/overlay/1721389240239/single-media-viewer/?profileId=ACoAACF6Lm0Bri26lIlJ8dbXXaN_qBu7p2C9PdM)
+
+- ⚡ Fun fact **Love to Ride Bikes**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chitralwarmanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chitralwarmanik" height="30" width="40" /></a>
+<a href="https://kaggle.com/manikchitralwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manikchitralwar" height="30" width="40" /></a>
+<a href="https://medium.com/@leochitralwar2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@leochitralwar2020" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@manikchitralwar7727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@manikchitralwar7727" height="30" width="40" /></a>
 </p>
 
-<img align="right" width=300px alt="Github Cat" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitralwarmanik&show_icons=true&locale=en&layout=compact" alt="chitralwarmanik" /></p>
 
->**Talking about Personal Stuffs:**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitralwarmanik&show_icons=true&locale=en" alt="chitralwarmanik" /></p>
 
-- 💻 Currently I'm working as a **Associate AI Developer** in **PiChain Innovations**.
-- I have worked in **iNeuron.ai** as a **Data Science Intern** for 6 months.
-- Working on **_Competitive Programming skills..._**
-- Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
-- Desire to develop new possibilities in the field of **_Data Science_** and **_ML_**
-- Fun-Fact: Love **_to live fit_** that able to serve the world with my coding and **_Analyis skills_** .🌐
-
-<br><br>
-
-<hr>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-_Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<!-------<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>---->
-<code><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="30"/> </a></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<!-----<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>------>
-<hr>
-
-<p align="center">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ChitralwarManik&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
-<!------<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Pandarge&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">---->
-
-</p>
-
-<br> Thanks for stopping by!
-<br>
-
-# Connect with me <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Handshake.gif" height="32px">
-GMAIL : **manikchitral123@gmail.com**
-<a href="https://www.linkedin.com/in/chitralwarmanik/">
-	<img align="left" alt="Manik_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
-</h1></a>
-
-<a href="https://www.linkedin.com/in/chitralwarmanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manik Chitralwar" height="30" width="40" /></a>
-
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitralwarmanik&" alt="chitralwarmanik" /></p>
