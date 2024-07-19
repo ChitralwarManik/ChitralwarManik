@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **manikchitral123@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chitralwarmanik/overlay/1721389240239/single-media-viewer/?profileId=ACoAACF6Lm0Bri26lIlJ8dbXXaN_qBu7p2C9PdM](https://www.linkedin.com/in/chitralwarmanik/overlay/1721389240239/single-media-viewer/?profileId=ACoAACF6Lm0Bri26lIlJ8dbXXaN_qBu7p2C9PdM)
+- 📄 Know about my experiences in  [My Resume](https://www.linkedin.com/in/chitralwarmanik/overlay/1721389240239/single-media-viewer/?profileId=ACoAACF6Lm0Bri26lIlJ8dbXXaN_qBu7p2C9PdM)
 
 - ⚡ Fun fact **Love to Ride Bikes**
 
