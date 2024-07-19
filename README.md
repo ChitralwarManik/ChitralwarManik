@@ -42,8 +42,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ChitralwarManik&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
 
-<p align="center"> <a <img src="https://github-readme-streak-stats.herokuapp.com/?user=chitralwarmanik&" alt="chitralwarmanik" /></a></p>
-
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chitralwarmanik" alt="chitralwarmanik" /></a> </p>
 
