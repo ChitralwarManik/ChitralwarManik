@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manik</h1>
 <h3 align="center">3+ year data-driven professional leverages Python, AI/ML, Computer Vision, and AWS to build impactful solutions with deployed machine learning models.</h3>
 
+<h1 align="center">I'm Manik  <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Developer.gif" width="80px"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitralwarmanik&label=Profile%20views&color=0e75b6&style=flat" alt="chitralwarmanik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chitralwarmanik" alt="chitralwarmanik" /></a> </p>
