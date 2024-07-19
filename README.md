@@ -12,11 +12,11 @@
 
 - 👯 My passion for **AI/ML lies in its potential to revolutionize how we interact with technology, and I'm constantly seeking to learn and contribute to this exciting field through personal projects and ongoing learning.**
 
-- 📝 I regularly write articles on [https://medium.com/@leochitralwar2020](https://medium.com/@leochitralwar2020)
+- 📝 I regularly write articles on [Mediun](https://medium.com/@leochitralwar2020)
 
 - 💬 Ask me about **Python, Computer Vision, Backend development, AWS.**
 
-- 📫 How to reach me **manikchitral123@gmail.com**
+- 📫 You can reach me [Mail](manikchitrl123@gmail.com)
 
 - 📄 Know about my experiences in  [My Resume](https://www.linkedin.com/in/chitralwarmanik/overlay/1721389240239/single-media-viewer/?profileId=ACoAACF6Lm0Bri26lIlJ8dbXXaN_qBu7p2C9PdM)
 
