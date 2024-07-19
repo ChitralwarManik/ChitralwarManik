@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitralwarmanik&label=Profile%20views&color=0e75b6&style=flat" alt="chitralwarmanik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chitralwarmanik" alt="chitralwarmanik" /></a> </p>
-
 
 <img align="right" width=300px alt="Github Cat" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
 
@@ -40,3 +38,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitralwarmanik&show_icons=true&locale=en" alt="chitralwarmanik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitralwarmanik&" alt="chitralwarmanik" /></p>
+
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=ChitralwarManik&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chitralwarmanik" alt="chitralwarmanik" /></a> </p>
